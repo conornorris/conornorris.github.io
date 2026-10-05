@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Potential Licensing Reforms in Light of COVID-19"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/Potential-Licensing-Reforms
+excerpt: 'We rank six alternatives currently being considered to address the primary care shortage from most to least effective.'
+date: 2022-12-01
+venue: 'Health Policy OPEN'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Timmons, E. and Norris, C., 2022. &quot;Potential licensing reforms in light of COVID-19.&quot; <i>Health Policy Open</i>, 3'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In 2020, COVID-19 threatened to overwhelm healthcare capacity, forcing policymakers to enact temporary waivers of licensing restrictions. Research finds that occupational licensing reduces the supply of professionals in a regulated field, and reduces geographic mobility, contributing to the primary care professional shortage. Scope of practice laws reduce the flexibility of practitioners, exacerbating these shortages. Given the fact that policymakers and healthcare professionals recognized the shortcomings to our current licensing regime during the COVID-19 pandemic, we should consider alternatives that still ensure quality care for patients without restricting access and reducing flexibility. We rank six alternatives currently being considered to address the primary care shortage from most to least effective. While efforts to expand the supply of physicians or NPs and PAs would be the most effective reforms to expand access to primary care, others that better utilize our existing supply of healthcare professionals are worth considering.
