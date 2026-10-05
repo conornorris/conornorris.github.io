@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/NLC-Telemedicine
 excerpt: 'Telemedicine allows healthcare professionals to reach patients in shortage areas, but state-based occupational licensing laws make interstate practice difficult.'
-date: 2023-5-29
+date: 2023-05-29
 venue: 'Journal of Patient Experience'
 paperurl: 'https://journals.sagepub.com/doi/full/10.1177/23743735231179060'
 citation: 'Norris, C., and Nandy, P., 2023. &quot;The Nurse Licensure Compact's Effect on Telemedicine Usage.&quot; <i>Journal of Patient Experience</i>., 10.'
