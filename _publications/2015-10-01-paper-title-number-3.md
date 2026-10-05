@@ -2,9 +2,9 @@
 title: "Nurse Licensure Compact and Mobility"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/Nurse-Licensure-Compact-and-Mobility
 excerpt: 'We examine to what extent relaxing occupational licensing results in labor mobility. For this, we consider the case of the Nurse Licensure Compact (NLC).'
-date: 2022
+date: 2022-06-10
 venue: 'Journal of Labor Research'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://link.springer.com/article/10.1007/s12122-022-09333-2'
