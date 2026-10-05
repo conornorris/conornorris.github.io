@@ -1,4 +1,4 @@
----
+----
 title: "The Nurse Licensure Compact's Effect on Telemedicine Usage."
 collection: publications
 category: manuscripts
