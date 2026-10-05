@@ -7,7 +7,7 @@ excerpt: 'We employ a border county comparison between Maryland and Pennsylvania
 date: 2023-11-20
 venue: 'Policy, Politics, & Nursing Practice'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://journals.sagepub.com/doi/abs/10.1177/15271544231212155'
 citation: 'Bae, K., Norris, C., Shakya, S. and Timmons, E., 2024. &quot;Advanced practice registered nurse full practice authority, provider supply, and health outcomes: A border analysis.&quot; <i>Policy, Politics, & Nursing Practice</i>, 25(1), pp.6-13.'
 ---
 
