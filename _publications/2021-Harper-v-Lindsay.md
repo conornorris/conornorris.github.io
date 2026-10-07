@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Harper-v-Lindsay
 excerpt: 'In this paper, we study dynamic, heterogeneous earnings effects of occupational licensing and draw implications for earnings inequality in the United States.'
-date: 2025-05-05
+date: 2021-10-27
 venue: 'Journal of Entrepreneurship and Public Policy'
 paperurl: 'https://www.emerald.com/jepp/article-abstract/10/1/1/432439/Licensing-massage-therapists-in-the-name-of-crime'
 citation: 'Deyo, D., Hoarty, B., Norris, C., Timmons, E., 2021. &quot;Licensing Massage Therapists in the Name of Crime: The Case of Harper v Lindsay.&quot; <i>Journal of Entrepreneurship and Public Policy</i>, 10 (1): 1–14.'
