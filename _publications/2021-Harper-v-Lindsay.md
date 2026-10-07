@@ -3,7 +3,7 @@ title: "Licensing Massage Therapists in the Name of Crime: The Case of Harper v 
 collection: publications
 category: manuscripts
 permalink: /publication/Harper-v-Lindsay
-excerpt: 'In this paper, we study dynamic, heterogeneous earnings effects of occupational licensing and draw implications for earnings inequality in the United States.'
+excerpt: 'This study was oringally part of a book project, which later changed into a journal article. In it, we analyze the trends for crime and STDs after the passage of massage therapist licensing.'
 date: 2021-10-27
 venue: 'Journal of Entrepreneurship and Public Policy'
 paperurl: 'https://www.emerald.com/jepp/article-abstract/10/1/1/432439/Licensing-massage-therapists-in-the-name-of-crime'
