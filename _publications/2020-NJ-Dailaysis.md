@@ -1,4 +1,3 @@
-
 ---
 title: "Estimating the effect of New Jersey’s 2005 administrative nurse mandate on mortality and hospitalizations for Medicare hemodialysis patients"
 collection: publications
